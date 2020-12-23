@@ -1,0 +1,35 @@
+body{
+    font-family: "Hiragino Kaku Gothic", "メイリオ", sans-serif;
+}
+
+h1 {
+    margin: 0 auto;
+    width: 400px;
+    background-color: #dddddd;
+    height: 28px;
+    border-left: 8px solid red;
+    padding: 4px 8px;
+    font-size: 20px;
+}
+
+form {
+    margin: 5px auto;
+    width: 400px;
+    background-color: #eeeeee;
+    border: 3px solid #dddddd;
+    border-radius: 10px;
+    padding:10px;
+}
+
+div {
+    margin-bottom: 10px;
+}
+
+.button {
+    border: 1px solid gray;
+    border-bottom: 3px solid #0000aa;
+    padding: 2px 6px;
+    border-radius: 3px;
+    background-color: #3333dd;
+    color: white;
+}
